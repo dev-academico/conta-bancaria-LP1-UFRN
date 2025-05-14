@@ -1,0 +1,7 @@
+// -o archives
+
+cliente.o
+contabancaria.o
+main.o
+
+programa
